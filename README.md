@@ -6,19 +6,19 @@
 - Use useSelector
 - use routes for different pages
 - use json-server
-Part-1
+<h1>Part-1</h1>
 - Create a TODO App
 - Use React-Redux to manage store
-Part-2
+<h1>Part-2</h1>
 - home - /
 - A user should be able to add todo details
 - clicking on a todo item will take it to /todo/:id page
-Part-3
+<h1>Part-3</h1>
 - Each todo item should have a complete status option
 - Toggle complete status
-Part-4
+<h1>Part-4<h1>
 - A user should be able to remove an item
-Part-5
+  <h1>Part-5</h1>
 - On each task create an edit button
 - create /todo/:id/edit to display the page for editing a todo
 - a user should be able to edit and update task from this page
