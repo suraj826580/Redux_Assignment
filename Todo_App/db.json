@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Redux",
+      "status": "true"
+    },
+    {
+      "title": "handle",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "React-Redux",
+      "status": false,
+      "id": 6
+    },
+    {
+      "title": "Learn Python",
+      "status": false,
+      "id": 8
+    },
+    {
+      "title": "David",
+      "status": false,
+      "id": 9
+    },
+    {
+      "title": "Learn Java",
+      "status": false,
+      "id": 13
+    },
+    {
+      "title": "Learn Django",
+      "status": false,
+      "id": 14
+    }
+  ]
+}
