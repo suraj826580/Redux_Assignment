@@ -1,7 +1,7 @@
 # Redux_Assignment
 
 
-Goals
+<h1>Goals</h1>
 - Use useDispatch
 - Use useSelector
 - use routes for different pages
